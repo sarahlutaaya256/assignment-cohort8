@@ -1,0 +1,18 @@
+.topic{
+    color: rgb(85, 6, 6);
+    text-align: center;
+    font-size: 60px;
+    margin-top: 30px;
+    text-shadow: 2px 0px;
+
+}
+.imagename{
+
+    font-size: large;
+    color: rgb(3, 3, 136);
+    font-weight: bold;
+    text-align: center;
+}
+body{
+    background-color: rgb(219, 189, 247);
+}
